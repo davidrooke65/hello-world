@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi humans just something crazy to say about myself
